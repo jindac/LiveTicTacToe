@@ -1,0 +1,22 @@
+{
+  "name": "livetictactoe",
+  "version": "1.0.0",
+  "description": "Real-time tic tac toe",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jindac/LiveTicTacToe.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jindac/LiveTicTacToe/issues"
+  },
+  "homepage": "https://github.com/jindac/LiveTicTacToe#readme",
+  "dependencies": {
+    "react": "^15.4.2"
+  }
+}
