@@ -25,7 +25,9 @@
     "inquirer": "^3.0.6",
     "lodash": "^4.17.4",
     "minimist": "^1.2.0",
+    "path": "^0.12.7",
     "preferences": "^0.2.1",
+    "prompt": "^1.0.0",
     "react": "^15.4.2",
     "simple-git": "^1.67.0",
     "touch": "^1.0.0"
